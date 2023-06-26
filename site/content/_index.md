@@ -1,6 +1,6 @@
 ---
 title: "Alice Ledda"
-subtitle:Evolutionary Scientist 
+subtitle: Evolutionary Scientist 
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
