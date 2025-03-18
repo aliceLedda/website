@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://aliceledda.github.io/website/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
