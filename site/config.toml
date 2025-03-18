@@ -8,18 +8,3 @@ title = "Homepage"
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
-[menus]
-[[menus.main]]
-name = "Research"
-url = "/research/"
-weight = 1
-
-[[menus.main]]
-name = "Publications"
-url = "/publications/"
-weight = 2
-
-[[menus.main]]
-name = "Contact"
-url = "/contact/"
-weight = 3
